@@ -1,0 +1,15 @@
+.header{
+    background-color:rgba(49, 209, 134);
+    padding: 8px;
+}
+h1{
+    margin: 0;
+}
+.headerlink{
+    background-color:rgb(49, 209, 134);
+    padding: 8px;
+    display: flex;
+    width: 100%;
+    color: white;
+    justify-content:space-evenly;
+}
