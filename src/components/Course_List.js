@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 import Form from "react-bootstrap/Form";
 import InputGroup from "react-bootstrap/InputGroup";
 import Modal from "react-modal";
-import axios from "axios";
+//import axios from "axios";
 
 const Dashboard = () => {
   const [record, setRecord] = useState([])
